@@ -1,5 +1,5 @@
 class Solution {
-public:
+public: 
     int findDuplicate(vector<int>& nums) {
         long long int slow=nums[0];
         long long int fast=nums[0];
